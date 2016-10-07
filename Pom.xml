@@ -135,7 +135,7 @@
 			
 			
 		</plugins>
-		<sourceDirectory>bootstrap<sourceDirectory>
+		<sourceDirectory>bootstrap</sourceDirectory>
 	</build>
 
 	<dependencies>
