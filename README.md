@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-To begin using this template, choose one of the following options to get started:
+To begin usdsding this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/shop-homepage/)
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git`
 * Fork the repo
